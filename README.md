@@ -96,3 +96,13 @@ Database Schema
 
 Screenshots
 -----------
+![1](https://github.com/user-attachments/assets/33c533f9-4934-492c-8349-b56caf108236)
+![2](https://github.com/user-attachments/assets/d21db753-9c81-4a62-b6a3-5e79aa1b670d)
+![3](https://github.com/user-attachments/assets/c693b366-aa7f-489c-874c-48d5a8bc2aba)
+![4](https://github.com/user-attachments/assets/dfc9cee6-1682-4fc5-a1d7-52cc240cd49c)
+![5](https://github.com/user-attachments/assets/51a83c4a-e68d-4e29-96ad-5b74a29a6225)
+![6](https://github.com/user-attachments/assets/5c9d6adc-3908-45c1-a6ee-8939d2dd7e75)
+![7](https://github.com/user-attachments/assets/5582a7b9-6341-4a72-8d17-b56113cd5a9c)
+![8](https://github.com/user-attachments/assets/00f9fe68-1a0d-4b05-bb07-b8e5087592fe)
+
+
